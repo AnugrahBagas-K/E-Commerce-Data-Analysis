@@ -4,9 +4,13 @@ python get-pip.py
 
 ## Install Library
 pip install numpy
+
 pip install pandas
+
 pip install matplotlib
+
 pip install seaborn
+
 pip install streamlit
 
 ## Run Streamlit App
